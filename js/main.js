@@ -1,0 +1,6 @@
+function clicou(){
+
+    alert ("clicado")  
+}
+
+
